@@ -1,0 +1,18 @@
+{
+  "name": "fuse-health",
+  "description": "FUSE Health's plugin for Claude Code, published by FUSE Health, Inc.: the hosted FUSE AI connector, the public FUSE docs connector and two skills.",
+  "owner": {
+    "name": "FUSE Health, Inc.",
+    "email": "support@fusehealth.com",
+    "url": "https://www.fusehealth.com"
+  },
+  "plugins": [
+    {
+      "name": "fuse-health",
+      "source": "./",
+      "description": "Run your FUSE brand from Claude (programs, pricing, coupons, checkout links, storefront, business totals) and look up FUSE's developer docs while you build.",
+      "category": "commerce",
+      "tags": ["commerce", "storefront", "checkout", "mcp"]
+    }
+  ]
+}

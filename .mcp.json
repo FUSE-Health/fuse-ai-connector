@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "fuse": {
+      "type": "http",
+      "url": "https://mcp.fusehealth.com/mcp"
+    },
+    "fuse-docs": {
+      "type": "http",
+      "url": "https://docs.mcp.fusehealth.com/mcp"
+    }
+  }
+}

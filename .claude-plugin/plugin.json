@@ -1,0 +1,31 @@
+{
+  "name": "fuse-health",
+  "displayName": "FUSE Health",
+  "version": "1.0.0",
+  "description": "Run your FUSE brand from Claude: build and price programs, check they are ready to sell, create coupons and checkout links, edit your storefront and see business totals. Includes FUSE's public developer docs for building integrations.",
+  "author": {
+    "name": "FUSE Health, Inc.",
+    "email": "support@fusehealth.com",
+    "url": "https://www.fusehealth.com"
+  },
+  "homepage": "https://www.fusehealth.com/developers/ai-connector",
+  "repository": "https://github.com/FUSE-Health/fuse-ai-connector",
+  "license": "MIT",
+  "keywords": [
+    "commerce",
+    "e-commerce",
+    "storefront",
+    "pricing",
+    "promotions",
+    "coupons",
+    "checkout",
+    "sales-analytics",
+    "health-and-wellness",
+    "mcp"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://www.fusehealth.com/developers/ai-connector",
+  "supportUrl": "https://www.fusehealth.com/developers/ai-connector#help",
+  "privacyPolicyUrl": "https://www.fusehealth.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.fusehealth.com/terms-of-service"
+}
