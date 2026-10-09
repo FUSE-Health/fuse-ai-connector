@@ -1,0 +1,8 @@
+{
+  "name": "fuse-health",
+  "version": "1.0.0",
+  "mcpServers": {
+    "fuse": { "httpUrl": "https://mcp.fusehealth.com/mcp" },
+    "fuse-docs": { "httpUrl": "https://docs.mcp.fusehealth.com/mcp" }
+  }
+}
