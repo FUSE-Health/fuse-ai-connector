@@ -4,7 +4,14 @@ FUSE runs two hosted MCP servers. There is nothing to clone, build or install, a
 
 ## 1. Add the servers
 
-Add these entries under `mcpServers` in Cline's MCP settings file:
+**Cline CLI, quickest way:**
+
+```bash
+cline mcp add fuse https://mcp.fusehealth.com/mcp --transport http --yes
+cline mcp add fuse-docs https://docs.mcp.fusehealth.com/mcp --transport http --yes
+```
+
+**Or edit the settings file:** add these entries under `mcpServers` in Cline's MCP settings file:
 
 - **VS Code extension:** open the MCP Servers panel and choose **Configure MCP Servers**.
 - **Cline CLI:** edit `~/.cline/data/settings/cline_mcp_settings.json`.
